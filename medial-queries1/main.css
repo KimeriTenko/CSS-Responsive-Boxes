@@ -26,6 +26,7 @@ main {
   .container {
     flex-direction: row;
     flex-wrap: wrap;
+    /*background: #ba9790;*/
   }
 
   header {
