@@ -19,7 +19,7 @@ footer {
 }
 
 main {
-  flex-grow;
+  flex-grow: 3;
 }
 
 @media (min-width: 600px) {
